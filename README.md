@@ -1,2 +1,2 @@
 # solid-octo-guide
-private
+test
